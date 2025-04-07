@@ -24,7 +24,7 @@ Hello! I'm currently a sophomore undergraduate student at San Diego State Univer
 ---
 
 ## 💼 Experiences
-**Undergraduate Research Assistant**
+### Undergraduate Research Assistant
 
 *Dept. of Computer Science, SDSU----*
 *Mar 2025 - Present*
@@ -33,14 +33,16 @@ Hello! I'm currently a sophomore undergraduate student at San Diego State Univer
 - Conduct autonomous flight testing and debugging using Gazebo and QGroundControl
 - Collaborate with team in communicating findings and challenges and troubleshoot issues
 
-**STAR Center Tutor**
+### STAR Center Tutor
+
 *SDSU Residential Education Office---* 
 *Sept. 2024 - Present*
 - Conduct 4-5 individual tutoring sessions for residents daily based on subject needs in Calculus I and II, Java Programming Fundamentals, and Physics
 -	Foster a supportive and engaging learning environment, helping students improve problem-solving and comprehension
 -	Act as positive and professional role model for students, maintaining open communication and encouraging academic success
 
-**College of Sciences Representative**
+### College of Sciences Representative
+
 *Associated Students SDSU---*
 *Aug. 2024 - Present*
 - Serve as members of the College of Sciences Student Council (CSSC) executive board, representing over 5000 students
@@ -51,7 +53,8 @@ Hello! I'm currently a sophomore undergraduate student at San Diego State Univer
 ---
 
 ## 🚀 Projects
-# Environmental Activism Website
+
+### Environmental Activism Website
 - **Tech Stack** : HTML/CSS/JS
 - Developed a multi-page front-end educational website promoting environmental sustainability and conservation
 - Implemented interactive features such as form validation, a dark mode toggle, and responsive navigation bar for enhanced UX using JS
@@ -59,7 +62,7 @@ Hello! I'm currently a sophomore undergraduate student at San Diego State Univer
 
 [Github Repository](https://github.com/aadib2/ABery_AdvocacyProject)
 
-# NBA Data Dashboard
+### NBA Data Dashboard
 - **Tech Stack** : React.js, HTML/CSS, VS Code
 - Developed dynamic dashboard using React to display real-time NBA game data from the BallDontLie API
 - Applied core React concepts: useEffect, useState, async/await, array filtering/mapping, and conditional rendering
@@ -67,7 +70,7 @@ Hello! I'm currently a sophomore undergraduate student at San Diego State Univer
 
 [Github Repository](https://github.com/aadib2/WEB-102-NBA-Dashboard)
 
-# NEBDHub & NSDC Explorer Transportation Data Science Project (TDSP)
+### NEBDHub & NSDC Explorer Transportation Data Science Project (TDSP)
 - **Tech Stack** : Python, Pandas, Matplotlib, Seaborn
 - Conducted geospatial and time series analysis on a 10,000+ NYC OpenData traffic collision records to develop insights into how roads can be made safer for NYC residents
 - Developed insights into road safety improvements, leveraging Python libraries such as Pandas, Matplotlib, and Seaborn for data cleaning and visualization
@@ -75,7 +78,7 @@ Hello! I'm currently a sophomore undergraduate student at San Diego State Univer
 
 [Github Repository](https://github.com/aadib2/Explorer-TDSP)
 
-# Galaxy Image Classifier
+### Galaxy Image Classifier
 - **Tech Stack** : Python, PyTorch, Scikit-learn, Streamlit
 - Trained a convolutional neural network (CNN) with Galaxy Zoo-2 dataset to classify galaxy images into Elliptical, Spherical, or Barred Spiral categories with 86% accuracy
 - Used train/test/validation dataset splits (scikit-learn) to evaluate model performance and ensure generalization
@@ -84,7 +87,7 @@ Hello! I'm currently a sophomore undergraduate student at San Diego State Univer
 
 [Github Repository](https://github.com/aadib2/Galaxy-Image-Classification)
 
-# National Park Finder
+### National Park Finder
 - **Tech Stack** : React.js, HTML/CSS, VS Code
 - Built an interactive app that allows users to discover U.S. national parks through real-time data fetched from the National Park Service API
 - Displayed key park details, including name, description, and three attributes in a clean, responsive layout
