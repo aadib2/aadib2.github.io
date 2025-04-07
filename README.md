@@ -4,6 +4,13 @@ Welcome to my personal portfolio website!
 
 ---
 
+## ✉️ Contact Info
+
+- 📧 Email: aadibery@gmail.com
+- 🔗 LinkedIn: [https://www.linkedin.com/in/aadi-bery/](https://www.linkedin.com/in/aadi-bery/)
+
+---
+
 ## 👨‍💻 About Me 
 
 Hello! I'm currently a sophomore undergraduate student at San Diego State University, majoring in Computer Science, and minoring in Mathematics. I'm super passionate about software development, ML/AI, data science, and impactful tech solutions that better the world, specifically interested about applications in the areas of sustainability, education, and urban planning. Explore to learn about me, my experiences, and the projects I've worked on thus far.
@@ -26,7 +33,7 @@ Hello! I'm currently a sophomore undergraduate student at San Diego State Univer
 ## 💼 Experiences
 ### Undergraduate Research Assistant
 
-*Dept. of Computer Science, SDSU----*
+*Dept. of Computer Science, SDSU---*
 *Mar 2025 - Present*
 - Support research efforts on autonomous drones with Professor Umut Can Cabuk
 - Improve drone simulator performance using software-in-the loop and hardware-in-the-loop simulations
