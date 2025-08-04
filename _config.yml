@@ -18,11 +18,11 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: Home, sidebaricon: home}
-  - {file: "projects.md", title: Projects}
-  - {file: "experience.md", title: Experiences}
-  - {file: "leadership.md", title: Leadership}
-  - {file: "skills.md", title: Skills}
+  - {url: '/', title: Home, sidebaricon: home}
+  - {url: '/projects/', title: Projects}
+  - {url: '/experience/', title: Experience}
+  - {url: '/leadership/', title: Leadership}
+  - {url: '/skills/', title: Skills}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Github, icon: github, url: "https://github.com/aadib2"}
