@@ -9,7 +9,7 @@ permalink: /projects/
 July 2025 - Present
 
 - **Tech Stack** : Python, scikit-learn, Keras / Tensorflow, NLTK
--    
+-   
 -  
 -    -->
 
@@ -46,21 +46,20 @@ January 2025 - February 2025
 - **Tech Stack** : Python, Pandas, Folium, Matplotlib, Seaborn
 - Conducted geospatial and time series analysis on a 10,000+ NYC OpenData traffic collision records to develop insights into how roads can be made safer for NYC residents
 - Developed insights into road safety improvements, leveraging Python libraries such as Pandas, Matplotlib, and Seaborn for data cleaning and visualization
--	Crafted personal research question, identifying Manhattan zip codes with highest collision concentration and understanding data-driven pedestrian impacts
+- Crafted personal research question, identifying Manhattan zip codes with highest collision concentration and understanding data-driven pedestrian impacts
 
-[Github Repository](https://github.com/aadib2/Explorer-TDSP)
+[Github Repository](https://github.com/aadib2/explorer-tdsp)
 
-### 🌌 Galaxy Image Classifier
+### 🌌 [Galaxy Image Classifier](https://galaxy-image-classification.streamlit.app/)
 
-September 2024 - December 2024
+September 2024 - January 2025
 
 - **Tech Stack** : Python, PyTorch, Scikit-learn, Streamlit
-- Trained a convolutional neural network (CNN) with Galaxy Zoo-2 dataset to classify galaxy images into Elliptical, Spherical, or Barred Spiral categories with 86% accuracy
-- Used train/test/validation dataset splits (scikit-learn) to evaluate model performance and ensure generalization
+- As part of group in SDSU AI Club, trained a convolutional neural network (CNN) on Galaxy Zoo-2 dataset to classify galaxy images into Elliptical, Spherical, or Barred Spiral categories with 86% accuracy
+- Used train/test/validation dataset splits and Adam optimizer to optimize model performance and improve generalization
 - Deployed model via simple Streamlit web interface with prediction visualization, demonstrating model capabilities
-- Gained greater understanding of machine learning, neural networks, and computer vision, fostered new passion for AI
 
-[Github Repository](https://github.com/aadib2/Galaxy-Image-Classification)
+[Github Repository](https://github.com/aadib2/galaxy-image-classification)
 
 
 ### 🌿 [Environmental Activism Website](https://a-bery-advocacy-project-aadibery1.replit.app/)
@@ -68,7 +67,7 @@ September 2024 - December 2024
 February 2024 - April 2024
 
 - **Tech Stack** : HTML/CSS/JS
-- Developed a multi-page front-end educational website promoting environmental sustainability and conservation
+- Developed a multi-page front-end educational website promoting environmental sustainability and conservation for introductory web-dev course
 - Implemented interactive features such as form validation, a dark mode toggle, and responsive navigation bar for enhanced UX using JS
 - Designed and organized content in user-friendly fashion, including 15+ ways to support 4+ environmental causes
 

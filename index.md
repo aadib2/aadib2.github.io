@@ -23,11 +23,52 @@ permalink: /
     max-width: 600px;
 }
 
+.featured-img {
+    width: 180px;
+    padding: 5px;
+}
+
 @media (max-width: 768px) {
   .intro-container {
     flex-direction: column;
     text-align: center;
   }
+}
+
+  /* for featured image section at bottom */
+.featured-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+.featured-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 220px;
+}
+.featured-item img {
+  width: 210px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+.featured-item p {
+  margin-top: 0.7em;
+  font-size: 15px;
+  text-align: center;
+}
+
+/* adapting for mobile screens */
+@media (max-width: 768px) {
+  .featured-gallery {
+    flex-direction: column;
+    align-items: center;
+  }
+
 }
 </style>
 
@@ -43,13 +84,46 @@ permalink: /
 
 <h3> About Me: </h3>
 
-I'm currently pursuing a **B.S. in Computer Science** with a **minor in Mathematics** from **San Diego State University** (SDSU). I'm a curious, detail-oriented problem solver and collaborator who is passionate about applying **data science, machine learning, and software development techniques** to tackle real-world challenges. Specifically, I'm interested in applications of these tools in spaces like **sustainability, education, and urban planning / transportation**. I enjoy collaborating on interdisciplinary teams and continuously growing and learning through hands-on learning, research, and leadership experiences.
+I'm currently pursuing a **B.S. in Computer Science** with a **minor in Mathematics** from **San Diego State University** (SDSU). I'm a curious, detail-oriented problem solver and collaborator who is passionate about applying **data science, machine learning, and software development techniques** to tackle real-world challenges. Specifically, I'm interested in applications of these tools in spaces like **sustainability, education, urban planning, transportation, and robotics**. I enjoy collaborating on interdisciplinary teams and continuously growing and learning through hands-on learning, research, and leadership experiences.
 
 Currently, I'm looking to leverage my knowledge and skills in a **Summer 2026 internship** where I can contribute to exciting and impactful real-world projects and grow and learn alongside industry and research professionals.
 
-Outside of academics, I enjoy being out with nature, playing tennis or basketball, and spending time reading about cool topics!
+Outside of academics, I enjoy being out with nature, going on hiking trails, playing tennis or basketball, and spending time reading about interesting topics!
 
 Feel free to explore the site to learn more about my [experiences](/experience/) and [projects](/projects/) thus far!
 
+---
 
-<!-- <h3> Some Featured Pictures Showing What I've been Up To! <h2> -->
+<h2> Featured 📷 <h2>
+
+<div class="featured-gallery">
+  <div class="featured-item">
+    <img src="/assets/img/featured-pics/aas-pic.jpeg" alt="AAS-Alaska" />
+    <p> June 2025: American Astronomical Society Conference for Summer Research 🪐</p>
+  </div>
+  <div class="featured-item">
+    <img src="/assets/img/featured-pics/btt-zoom.png" alt="BTT MLF Last Day" />
+    <p>July 2025: Break Through Tech ML Foundations Lab! 💪</p>
+  </div>
+  <div class="featured-item">
+    <img src="/assets/img/featured-pics/dl-bootcamp.jpeg" alt="Sekeh Lab DL" />
+    <p>July 2025: Attended SDSU Deep Learning Bootcamp hosted by Sekeh Lab! 🤖</p>
+  </div>
+  <div class='featured-item'>
+    <img src='/assets/img/featured-pics/alum-panel.jpg' alt='CSSC Panel' />
+    <p> February 2025: Organized STEM Alumni Panel as A.S. Sciences Representative 👔 </p>
+  </div>
+  <div class='featured-item'>
+    <img src='/assets/img/featured-pics/glazer-endyr.jpeg' alt='Glazer EndOfYr' />
+    <p> May 2025: SDSU Glazer Center End of Year Celebration for Launch program 🚀 </p>
+  </div>
+  <div class='featured-item'>
+    <img src='/assets/img/featured-pics/volunteering.jpeg' alt='CSSC Panel' />
+    <p> April 2025: Volunteering for Produce Good with SDSU Rotaract 🍋 </p>
+  </div>
+  <div class='featured-item'>
+    <img src='/assets/img/featured-pics/exec pic at council horizontal.JPG' alt='CSSC Executive' />
+    <p> October 2024: College of Sciences Student Council Executive Board 🧪 </p>
+  </div>
+  
+</div>
