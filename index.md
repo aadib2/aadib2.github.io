@@ -106,7 +106,7 @@ Feel free to explore the site to learn more about my [experiences](/experience/)
     <p>July 2025: Break Through Tech ML Foundations Lab! 💪</p>
   </div>
   <div class="featured-item">
-    <img src="/assets/img/featured-pics/dl-bootcamp.jpeg" alt="Sekeh Lab DL" />
+    <img src="/assets/img/featured-pics/aibootcamppic.jpg" alt="Sekeh Lab DL" />
     <p>July 2025: Attended SDSU Deep Learning Bootcamp hosted by Sekeh Lab! 🤖</p>
   </div>
   <div class='featured-item'>
