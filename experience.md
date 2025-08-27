@@ -31,6 +31,25 @@ permalink: /experience/
     <div>
         <h3> Research Assistant </h3>
         <p><strong>SDSU AI4Business Lab</strong> • August 2025 - Present</p>
+        <ul>
+            <li>Contribute to the development of <i>ENV-QAS</i>, a multimodal AI framework informing real-time disaster management, leveraging NLP, multimodal transformers,  and temporal knowledge graphs to generate actionable insights from diverse sources </li>
+            <li> Collaborate and communicate with research faculty and lab members to implement end-to-end pipeline for query understanding, environmental context extraction, and recommendation generation for crisis response.</li>
+            <li>Analyze and and synthesize AI/ML research papers and technical documentation to extract relevant methodologies and inform design decisions </li>
+        </ul>
+    </div>
+</div>
+
+<div class='experience-card'>
+    <img src='/assets/img/bttlogo.png' alt='Break Through Tech Logo'>
+    <div>
+        <h3> AI Studio Fellow </h3>
+        <p> <a href='https://www.breakthroughtech.org/'> Break Through Tech </a> • April 2025 - Present </p>
+        <p><em>Python, sklearn, Keras, NLP, CV </em></p>
+        <ul>
+            <li> Completed Cornell Tech ML Foundations certificate, using industry relevant tools and Python libraries </li>
+            <li>Collaborate with team of fellows on AI challenge project (Synthetic Image Data Generation) with <i> Anote</i>, an NYC AI Infrastructure Startup alongside mentorship and support from industry professionals </li>
+            <li> Further leadership and communication skills and learn to responsibly and ethically use AI / ML </li>
+        </ul>
     </div>
 </div>
 
@@ -38,7 +57,7 @@ permalink: /experience/
     <img src='/assets/img/vera-rubin-logo.png' alt='Vera Rubin Obs. Logo'>
     <div>
         <h3> Undergraduate Researcher </h3>
-        <p> <strong> SDSU Department of Astronomy </strong> • May 2025 - Present </p>
+        <p> <strong> SDSU Department of Astronomy </strong> • May 2025 - August 2025 </p>
         <p><em>Python, sklearn, pandas, numpy, matplotlib, astropy, Git</em></p>
         <ul>
             <li> Apply ML and data science techniques to identify and analyze pulsating variable stars using Vera Rubin Observatory DP1 Data </li>
@@ -49,19 +68,6 @@ permalink: /experience/
     </div>
 </div>
 
-<div class='experience-card'>
-    <img src='/assets/img/bttlogo.png' alt='Break Through Tech Logo'>
-    <div>
-        <h3> AI Program Fellow </h3>
-        <p> <a href='https://www.breakthroughtech.org/'> Break Through Tech </a> • April 2025 - Present </p>
-        <p><em>Python, sklearn, Keras, NLP </em></p>
-        <ul>
-            <li> Completed Cornell Tech ML Foundations certificate, using industry relevant tools and Python libraries </li>
-            <li>Collaborate with team of fellows on AI challenge project with mentorship from industry professionals </li>
-            <li> Further leadership and communication skills and learn to responsibly and ethically use AI / ML </li>
-        </ul>
-    </div>
-</div>
 
 <div class='experience-card'>
     <img src='/assets/img/drone-sim.jpg' alt='Drone Simulation'>

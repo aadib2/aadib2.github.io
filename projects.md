@@ -4,15 +4,16 @@ title: '🚀 Projects'
 permalink: /projects/
 ---
 
-<!-- ### Movie Review Sentiment Analyzer
+### 🍿 [Movie Review Sentiment Analyzer](https://imdb-sentiment-analyzer-btt.streamlit.app/)
 
-July 2025 - Present
+July 2025 - August 2025
 
-- **Tech Stack** : Python, scikit-learn, Keras / Tensorflow, NLTK
--   
--  
--    -->
+- **Tech Stack** : Python, scikit-learn, NLTK, SHAP, Streamlit
+-  Engineered end-to-end sentiment analysis pipeline, processing 6000 movie reviews with NLP preprocessing techniques, TF-IDF vectorization and hyperparameter tuning, achieving 92% AUC score with logistic regression model
+- Implemented explainable AI solution using SHAP framework to provide interpretable prediction visualizations describing individual word & token contributions, utilizing waterfall and summary plots
+- Integrated interactive web app showcasing predictive ability and model interpretability through Streamlit
 
+[Github Repository](https://github.com/aadib2/movie-review-sentiment-analyzer)
 
 
 ### 🛣️ [InfraHub](https://infrahub-forum.netlify.app/login) - A Forum Site for Construction Enthusiasts
