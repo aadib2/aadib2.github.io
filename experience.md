@@ -44,10 +44,10 @@ permalink: /experience/
     <div>
         <h3> AI Studio Fellow </h3>
         <p> <a href='https://www.breakthroughtech.org/'> Break Through Tech </a> • April 2025 - Present </p>
-        <p><em>Python, sklearn, Keras, NLP, CV </em></p>
+        <p><em>Python, sklearn, Keras, NLP, Computer Vision </em></p>
         <ul>
             <li> Completed Cornell Tech ML Foundations certificate, using industry relevant tools and Python libraries </li>
-            <li>Collaborate with team of fellows on AI challenge project (Synthetic Image Data Generation) with <i> Anote</i>, an NYC AI Infrastructure Startup alongside mentorship and support from industry professionals </li>
+            <li>Collaborate with team of fellows on AI challenge project (Synthetic Image Data Generation) with <i> Anote</i>, an NYC AI Technology Startup with mentorship and support from industry professionals </li>
             <li> Further leadership and communication skills and learn to responsibly and ethically use AI / ML </li>
         </ul>
     </div>

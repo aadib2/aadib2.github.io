@@ -84,9 +84,9 @@ permalink: /
 
 <h3> About Me: </h3>
 
-I'm currently pursuing a **B.S. in Computer Science** with a **minor in Mathematics** from **San Diego State University** (SDSU). I'm a curious, detail-oriented problem solver and collaborator who is passionate about applying **data science, machine learning, and software development techniques** to tackle real-world challenges. Specifically, I'm interested in applications of these tools in spaces like **sustainability, education, urban planning, transportation, and robotics**. I enjoy collaborating on interdisciplinary teams and continuously growing and learning through hands-on learning, research, and leadership experiences.
+I'm currently pursuing a **B.S. in Computer Science** with a **minor in Mathematics** from **San Diego State University** (SDSU). I'm a curious, detail-oriented problem solver and collaborator who is passionate about applying **data science, machine learning & AI, and software development techniques** to tackle real-world challenges and automate workflows. Specifically, I'm interested in applications of these tools in spaces like **sustainability, education, and transportation**. I enjoy collaborating on interdisciplinary teams and continuously growing and learning through hands-on learning, research, and leadership experiences.
 
-Currently, I'm looking to leverage my knowledge and skills in a **Summer 2026 internship** where I can contribute to exciting and impactful real-world projects and grow and learn alongside industry and research professionals.
+Currently, I'm looking to leverage my knowledge and skills in a **Summer 2026 internship** where I can contribute to exciting and impactful real-world projects and be inspired alongside industry and research professionals.
 
 Outside of academics, I enjoy being out with nature, going on hiking trails, playing tennis or basketball, and spending time reading about interesting topics!
 
