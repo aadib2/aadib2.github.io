@@ -88,7 +88,7 @@ permalink: /experience/
 ## 🎓 Teaching & Mentorship
 
 <div class='experience-card'>
-    <img src='/assets/img/star-center.png' alt='STAR Center Logo'>
+    <img src='/assets/img/reo.png' alt='STAR Center Logo'>
     <div>
         <h3> STAR Center Tutor </h3>
         <p> <strong> SDSU Residential Education Office </strong> • September 2024 - May 2025 </p>
