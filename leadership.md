@@ -46,7 +46,7 @@ permalink: /leadership/
   </div>
 </div>
 
-<div class="leadership-experience">
+<!-- <div class="leadership-experience">
   <img src="/assets/img/sase-logo.png" alt="SASE Logo" class="leadership-img">
   <div>
     <strong>Professional Development Coordinator</strong> – Society of Asian Scientists and Engineers (SASE), SDSU Chapter <br>
@@ -56,7 +56,7 @@ permalink: /leadership/
       <li>Host career-related workshops, study sessions, and guest speaker sessions in collaboration with executive board to support APIDA-identifying STEM students</li>
     </ul>
   </div>
-</div>
+</div> -->
 
 <div class="leadership-experience">
   <img src="/assets/img/as-logo.png" alt="SDSU Associated Students" class="leadership-img">

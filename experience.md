@@ -25,6 +25,17 @@ permalink: /experience/
 
 ## ⚙️ Research and Technical Roles
 
+<div class='experience-card'>
+    <img src='/assets/img/anote-logo.jpg' alt='Anote Logo'>
+    <div>
+        <h3> AI Academy Fellow </h3>
+        <p><strong>Anote</strong> • January 2026 - Present</p>
+        <ul>
+            <li>Selected as one of founding fellows for Anote's inaugural AI Academy for future enterprise AI professionals, combining hands-on experience with community support and real-world application </li>
+            <li> Take part in building capstone project (TBD), get dedicated coaching and practical AI roadmap, and attend weekly expert talks </li>
+        </ul>
+    </div>
+</div>
 
 <div class='experience-card'>
     <img src='/assets/img/sdsuai4bus.png' alt='AI4Business SDSU'>
@@ -32,8 +43,8 @@ permalink: /experience/
         <h3> Research Assistant </h3>
         <p><strong>SDSU AI4Business Lab</strong> • August 2025 - Present</p>
         <ul>
-            <li>Contribute to the development of <i>ENV-QAS</i>, a multimodal AI framework informing real-time disaster management, leveraging NLP, multimodal transformers,  and temporal knowledge graphs to generate actionable insights from diverse sources </li>
-            <li> Collaborate and communicate with research faculty and lab members to implement end-to-end pipeline for query understanding, environmental context extraction, and recommendation generation for crisis response.</li>
+            <li>Contribute to the development of <i>ENV-QAS</i>, a multimodal AI framework informing real-time communication for disaster management, leveraging NLP, multimodal transformers, knowledge graphs, and Agentic RAG to generate actionable insights from diverse sources </li>
+            <li> Collaborate and communicate with research faculty and lab members to design end-to-end pipeline for query understanding, environmental context extraction, and response / recommendation generation for crisis response.</li>
             <li>Analyze and and synthesize AI/ML research papers and technical documentation to extract relevant methodologies and inform design decisions </li>
         </ul>
     </div>
@@ -48,7 +59,7 @@ permalink: /experience/
         <ul>
             <li> Completed Cornell Tech ML Foundations certificate, using industry relevant tools and Python libraries </li>
             <li>Collaborate with team of fellows on AI challenge project (Synthetic Image Data Generation) with <i> Anote</i>, an NYC AI Technology Startup with mentorship and support from industry professionals </li>
-            <li> Further leadership and communication skills and learn to responsibly and ethically use AI / ML </li>
+            <li> Further leadership, communication, and project management skills and learn about responsible and ethical AI usage </li>
         </ul>
     </div>
 </div>

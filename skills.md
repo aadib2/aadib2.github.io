@@ -26,7 +26,7 @@ permalink: /skills/
     <div>
         <h2>Technical:</h2>
         <strong>Programming Languages:</strong><br>
-        Python, JavaScript, Java, HTML/CSS, ADQL<br><br>
+        Python, SQL, JavaScript, HTML/CSS <br><br>
         <strong>Libraries / Frameworks:</strong><br>
         NumPy, Pandas, Matplotlib, Scikit-learn, Keras, PyTorch, React.js<br><br>
         <strong>Tools:</strong><br>

@@ -4,9 +4,21 @@ title: '🚀 Projects'
 permalink: /projects/
 ---
 
+### 💻 ClubHub - Innovate4SDSU Hackathon Project
+
+November 2025 - Present
+
+- **Tech Stack** : React.js, FastAPI, Gemini API, Langchain, Supabase
+- Developed an AI-powered prototype in team of 4 during 2-day hackathon, aimed at consolidating key resources for student organizations and streamlining club management and operations
+- Implemented an interactive club financial dashboard using React.js with real-time PostgreSQL data integration via Supabase and Python FastAPI backend, enabling transparent budget tracking and management for club treasurers
+- Helped build a RAG-powered LLM assistant orchestrated using LangChain, Gemini API, and pgvector to automate information retrieval workflows, reducing manual lookup time for administrative and club related information by 1+ hours per user
+
+[GitHub Repository](https://github.com/EFUDG3/HackathonSDSU/tree/main)
+
+
 ### 🍿 [Movie Review Sentiment Analyzer](https://imdb-sentiment-analyzer-btt.streamlit.app/)
 
-July 2025 - August 2025
+July 2025 - Present
 
 - **Tech Stack** : Python, scikit-learn, NLTK, SHAP, Streamlit
 -  Engineered end-to-end sentiment analysis pipeline, processing 6000 movie reviews with NLP preprocessing techniques, TF-IDF vectorization and hyperparameter tuning, achieving 92% AUC score with logistic regression model
