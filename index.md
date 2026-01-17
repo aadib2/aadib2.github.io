@@ -152,6 +152,14 @@ permalink: /
 
 <div class="featured-gallery">
   <div class="featured-item">
+    <img src="/assets/img/featured-pics/neurips-group-pic.jpg">
+    <p> December 2025: Went to NeurIPS 2025 with the SDSU AI Club! 🧠</p>
+  </div>
+  <div class="featured-item">
+    <img src="/assets/img/featured-pics/hackathon.JPG">
+    <p> November 2025: Participated in Innovate4SDSU Hackathon 💻</p>
+  </div>
+  <div class="featured-item">
     <img src="/assets/img/featured-pics/aas-pic.jpeg" alt="AAS-Alaska" />
     <p> June 2025: American Astronomical Society Conference for Summer Research 🪐</p>
   </div>
